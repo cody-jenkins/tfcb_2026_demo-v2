@@ -40,7 +40,10 @@ Background: CD24 is a “Do not eat me signal” that prevents tumor cells from 
 6. BD FACSymphony A3 Cell Analyzer was used to measure the percent positivity of each cell replicate. 
 
 ## Result
-Flow cytometry confirmed that the control cell lines were ~95% positive for CD24 while the knockout cell lines each were completely negative. ![Flow Cytometry Results](experiments/img/CD24_results.png) 
+Flow cytometry confirmed that the control cell lines were ~95% positive for CD24 while the knockout cell lines each were completely negative. 
+![Flow Cytometry Results](experiments/img/CD24-results.png) 
+
+
 ### Conclusion
 The knockout cell line and its corresponding control cell line demonstrate differential CD24 protein expression making it a valid model for further interrogating the role of the marker in tumor biology. 
 
