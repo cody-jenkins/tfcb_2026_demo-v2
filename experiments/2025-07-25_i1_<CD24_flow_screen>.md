@@ -15,7 +15,9 @@ To determine what percentage of murine small cell lung cancer cells express the 
 Background: CD24 is a “Do not eat me signal” that prevents tumor cells from being attacked by immune phagocytes such as macrophages. We have conducted lenti-CRISPR assays using guides specifically targeted to knock out CD24 from our murine small cell lung cancer cell lines as well as a non-targeting guide in the same vector. We have confirmed that the knock-out cell line has negatively enriched levels of RNA expression relative to the control cell line. This experiment describes how we used flow cytometry to compare the level of protein expression of the knockout cell line to the control cell line. 
 
 ## Procedure 
-1. Cell cultures from parental murine cell line known as K7127 were grown from a knockout and a control line  in tissue culture appropriate plastic-ware for 48 hours.
+Prior to this experiment Lenti-CRISPR gene editing was used to knockout CD24 in the parental murine small cell lung cancer cell line known as K7127. That experiment resulted in 2 different cell lines. One that was received the sgRNA for CD24 and one that received a non-targetting sgRNA. 
+
+1. Cell cultures for the knockout and non-targeting cell lines were grown in tissue culture appropriate plastic-ware for 48 hours.
 3. The replicates were harvested by centrifugation, washed with 1x PBS and labeled according to the table below.
 
 | Cell line | Replicate | Antibody Stain |
