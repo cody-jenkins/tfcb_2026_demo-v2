@@ -44,6 +44,6 @@ Flow cytometry confirmed that the control cell lines were ~95% positive for CD24
 ![Flow Cytometry Results](img/CD24-results.png)
 *Figure1: Flow cytometry results from K7127 experiment described. Results for two additional cell lines are also included. Isotype control samples are excluded, samples were similar to unstained controls. Figure prepared by Cody Jenkins*
 
-### Conclusion
+## Conclusion
 The knockout cell line and its corresponding control cell line demonstrate differential CD24 protein expression making it a valid model for further interrogating the role of the marker in tumor biology. 
 
