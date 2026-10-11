@@ -41,7 +41,7 @@ Background: CD24 is a “Do not eat me signal” that prevents tumor cells from 
 
 ## Result
 Flow cytometry confirmed that the control cell lines were ~95% positive for CD24 while the knockout cell lines each were completely negative. 
-![Flow Cytometry Results](experiments/img/CD24-results.png)
+![Flow Cytometry Results](img/CD24-results.png)
 
 ### Conclusion
 The knockout cell line and its corresponding control cell line demonstrate differential CD24 protein expression making it a valid model for further interrogating the role of the marker in tumor biology. 
