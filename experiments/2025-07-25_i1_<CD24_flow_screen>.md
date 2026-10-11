@@ -10,7 +10,7 @@
 |Anti-CD24-PE | BioLegend | 101807 | 200x | 1x | 
 | Rat IgG2b Isotype ctrl | Biolegend | 400635 | 200x | 1x | 
 
-### Experimental Objective 
+## Experimental Objective 
 To determine the percentage of murine small cell lung cancer cells express the target protein CD24 after CRISPR knockout
 Background: CD24 is a “Do not eat me signal” that prevents tumor cells from being attacked by immune phagocytes such as macrophages. We have conducted lenti-CRISPR assays using guides specifically targeted to knock out CD24 from our murine small cell lung cancer cell lines as well as a non-targeting guide in the same vector. We have confirmed that the knock-out cell line has negatively enriched levels of RNA expression relative to the control cell line. This experiment describes how we used flow cytometry to compare the level of protein expression of the knockout cell line to the control cell line. 
 
