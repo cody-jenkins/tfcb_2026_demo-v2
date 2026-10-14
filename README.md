@@ -17,4 +17,6 @@ Links to
 
 -[CSV](https://github.com/cody-jenkins/tfcb_2026_demo-v2/blob/main/analysis/qpcr/2026-10-15_i2_tidy_data_exercise/tidy_data_exercise.csv)
 
--[Commit](
+-[Commit](https://github.com/cody-jenkins/tfcb_2026_demo-v2/commit/5db42bd19b74567368e4232be45353f433826d83) One of the commits for issue 1 (adjusting a heading) 
+
+-[labels](https://github.com/cody-jenkins/tfcb_2026_demo-v2/labels) Labels including the default labels (help wanted was the one I chose-the help being grading) and the two I made: experiment and tidy-data. 
