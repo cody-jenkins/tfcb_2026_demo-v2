@@ -1,4 +1,12 @@
 # tfcb_2026_demo-v2
+Student: Cody Jenkins
+GitHub Profile: https://github.com/cody-jenkins
+Repository URL: https://github.com/cody-jenkins/tfcb_2026_demo-v2
+(see links below for URLs for issue #1, Issue #2, the log file URL, the tidy CSV URL, commit URL)
+Colaborator 1 Username: vbrow29 (Val) 
+Colaborator 2 Username: emd5 (Erin Doherty) 
+
+
 This repository is Cody Jenkins' attempt at homework 01 for the class "Tools for Computational Biology". It was made by Cody Jenkins using resources provided by the [tfcb_2026 parental](https://github.com/FredHutch/tfcb_2026/tree/main) repository on git hub. 
 
 tfcb_2026_demo-v2 Layout
