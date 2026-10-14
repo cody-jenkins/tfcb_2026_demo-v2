@@ -1,10 +1,15 @@
 # tfcb_2026_demo-v2
 Student: Cody Jenkins
+
 GitHub Profile: https://github.com/cody-jenkins
+
 Repository URL: https://github.com/cody-jenkins/tfcb_2026_demo-v2
+
 (see links below for URLs for issue #1, Issue #2, the log file URL, the tidy CSV URL, commit URL)
-Colaborator 1 Username: vbrow29 (Val) 
-Colaborator 2 Username: emd5 (Erin Doherty) 
+
+Colaborator 1 (TA) Username: vbrow29 (Val Browning) 
+
+Colaborator 2 (student) Username: emd5 (Erin Doherty) 
 
 
 This repository is Cody Jenkins' attempt at homework 01 for the class "Tools for Computational Biology". It was made by Cody Jenkins using resources provided by the [tfcb_2026 parental](https://github.com/FredHutch/tfcb_2026/tree/main) repository on git hub. 
@@ -50,3 +55,7 @@ Links to
 -[Commit](https://github.com/cody-jenkins/tfcb_2026_demo-v2/commit/5db42bd19b74567368e4232be45353f433826d83) One of the commits for issue 1 (adjusting a heading) 
 
 -[labels](https://github.com/cody-jenkins/tfcb_2026_demo-v2/labels) Labels including the default labels (help wanted was the one I chose-the help being grading) and the two I made: experiment and tidy-data. 
+
+## Acknowledgements
+
+Thank you Val for patiently helping answer my questions. Claude was used to as a search engine to help answer additional questions but did not write any of the code or text I used for the assignment. 
