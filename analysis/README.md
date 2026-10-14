@@ -4,4 +4,8 @@ I downloaded the excel file and reorganized the qPCR data file. It was presented
 
 ## ChangeLog
 
--2026-10-08 workbook downloaded 
+-2026-10-08 downloaded the [workbook](https://github.com/cody-jenkins/tfcb_2026/blob/main/lectures/lecture03/exercise/tidy_data_exercise.xlsx) for the tidy data exercise
+
+-2026-10-10 reorganized tidy data file
+
+-2026-10-14 imported to github 
