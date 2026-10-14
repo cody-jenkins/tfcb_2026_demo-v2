@@ -2,17 +2,26 @@
 This repository is Cody Jenkins' attempt at homework 01 for the class "Tools for Computational Biology". It was made by Cody Jenkins using resources provided by the [tfcb_2026 parental](https://github.com/FredHutch/tfcb_2026/tree/main) repository on git hub. 
 
 tfcb_2026_demo-v2 Layout
-* analysis
-  * qpcr
-    * data
-      * README.md
-    * tables
-      * tidy_data_exercise.csv
-    * README.md
-    * tidy_data_exercise.csv
-  * README.md
-* experiments
-* README.md
+- README.md
+- analysis
+  - README.md
+  - qpcr
+    - 2026-10-15_i2_tidy_data_exercise
+      - tidy_data_exercise.csv
+      - README.md
+      - data
+        - README.md
+      - tables
+        - README.md
+        - tidy_data_exercise.csv
+- experiments
+  - img
+    - CD24-results.png
+    - README.md
+    - volcano-plot-CD24-RNAseq
+  - 2025-07-25_i1_\<CD24_flow_screen\>.md
+  - README.md
+
 
 # Problem 5 
 The invitation for the collaborators (Val, Katie and Erin) changed my repository from a public read-only website to an interactive document that they can edit and contribute to. They can make changes as they see fit. 
