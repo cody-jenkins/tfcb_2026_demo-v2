@@ -37,7 +37,7 @@ tfcb_2026_demo-v2 Layout
 
 
 # Problem 5 
-The invitation for the collaborators (Val, Katie and Erin) changed my repository from a public read-only website to an interactive document that they can edit and contribute to. They can make changes as they see fit. 
+The invitation for the collaborators (Val, and Erin) changed my repository from a public read-only website to an interactive document that they can edit and contribute to. They can make changes as they see fit. 
 
 ## Homework 1 
 Links to 
